@@ -19,7 +19,16 @@ Guia para revisão posterior das passagens anotadas e para o estudo do texto em 
 - qui vigilassem : não consigo entender pela entrada desse verbo no dicionário (vigilo, -as, -are, -aui, -atum) como vigilassem  está no mais-que-perfeito… Não deveria ser vigilauissem? Ainda não me acostumei com a morfologia dos subjuntivos, preciso estudar isso novamente.
 - tale, quale… : não sabia que essa estrutura era declinável.
 
+### Tópicos para estudo (gramática latina)
+
+- Subjuntivos (morfologia e semântica).
+- Terceira e quarta declinação.
+
 ### Dúvidas (UD)
 
 - Linha 213 (sent_id = cic-rep-6-10-C, ID 28 TOKEN quo): na oração relativa, de Homero…de quo… solebat, o quo possui como HEAD 32, isto é, o verbo solebat (linha 217) e é um “obl”, ou ele possui como HEAD 24, isto é, o nome que el retoma, Homero (linha 209) ?
+
+### Tópicos para estudo (UD)
+- Pesquisar na página geral do UD e na de latim do CIRCSE  a forma de marcação de dependências para pronomes relativos em orações relativas.
+
 
