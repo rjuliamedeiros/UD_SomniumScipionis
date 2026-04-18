@@ -5,7 +5,7 @@ UD_SomniumScipionis is a treebank repository featuring the Scipio's Dream (Cicer
 
 # Introduction
 
-This treebank is a work in progress. At present, it contains the following annotated passages: Rep.6.9-10
+This treebank is a work in progress. At present, it contains the following annotated passages: Rep.6.9-11
 
 ### Cicero *Somnium Scipionis*
 
