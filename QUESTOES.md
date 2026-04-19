@@ -12,7 +12,7 @@ Guia para revisão posterior das passagens anotadas.
 
 # Parágrafo 12 (Rep.6.12)
 - Linha 430  (sent_id = cic-rep-6-12-C, ID 19 TOKEN alter): head e deprel
-- Linha 458, 461, 463  (sent_id = cic-rep-6-12-D, ID 3, 6, 8 TOKEN te): deprel
+- Linhas 458, 461, 463  (sent_id = cic-rep-6-12-D, ID 3, 6, 8 TOKEN te): deprel
 - Linha 480  (sent_id = cic-rep-6-12-E, ID 11 TOKEN multa): features, head e deprel
 - Linha 490  (sent_id = cic-rep-6-12-E, ID 21 TOKEN effugeris): head (15?16?)
 
