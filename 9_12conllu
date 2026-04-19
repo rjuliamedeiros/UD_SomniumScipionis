@@ -377,3 +377,141 @@
 12	perturbatam	perturbo	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Acc|Gender=Fem|Number=Sing	8	acl	_	_
 13	nepotis	nepos	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 14	mei	meus	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	13	det	_	_
+
+# sent_id = cic-rep-6-12-A
+# text = Hic tu Africane ostendas oportebit patriae lumen animi ingenii consiliique tui
+
+1	Hic	hic	ADV	_	_	5	advmod	_	_
+2	tu	tu	PRON	_	Case=Nom|Person=2|Number=Sing	4	nsubj	_	_
+3	Africane	Africanus	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
+4	ostendas	ostendo	VERB	_	Mood=Sub|Tense=Pres|Person=2|Number=Sing|Voice=Act	5	xcomp	_	_
+5	oportebit	oportet	VERB	_	Mood=Ind|Tense=Fut|Person=3|Number=Sing|Voice=Act	0	root	_	_
+6	patriae	patria	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	_
+7	lumen	lumen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+8	animi	animus	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	ingenii	ingenium	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+10	consilii	consilium	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	que	-que	CCONJ	_	_	10	cc	_	_
+12	tui	tuus	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	det	_	_
+
+# sent_id = cic-rep-6-12-B
+# text = Sed eius temporis ancipitem video quasi fatorum viam
+
+1	Sed	sed	CCONJ	_	_	5	cc	_	_
+2	eius	is	PRON	_	Case=Gen|Gender=Neut|Number=Sing	3	det	_	_
+3	temporis	tempus	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+4	ancipitem	anceps	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
+5	video	video	VERB	_	Mood=Ind|Tense=Pres|Person=1|Number=Sing|Voice=Act	0	root	_	_
+6	quasi	quasi	ADV	_	_	5	advmod	_	_
+7	fatorum	fatum	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+8	viam	via	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = cic-rep-6-12-C
+# text = Nam cum aetas tua septenos octiens solis anfractus reditusque converterit duoque ii numeri quorum uterque plenus alter altera de causa habetur circuitu naturali summam tibi fatalem confecerint in te unum atque in tuum nomen se tota convertet civitas
+
+1	Nam	nam	CCONJ	_	_	39	cc	_	_
+2	cum	cum	SCONJ	_	_	11	mark	_	_
+3	aetas	aetas	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+4	tua	tuus	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	det	_	_
+5	septenos	septeni	NUM	_	Case=Acc|Gender=Masc|Number=Plur	8	nummod	_	_
+6	octiens	octiens	ADV	_	_	11	advmod	_	_
+7	solis	sol	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	anfractus	anfractus	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+9	reditus	reditus	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	conj	_	_
+10	que	-que	CCONJ	_	_	9	cc	_	_
+11	converterit	converto	VERB	_	Mood=Sub|Tense=Perf|Person=3|Number=Sing|Voice=Act	39	advcl	_	_
+12	duo	duo	NUM	_	Case=Nom|Gender=Masc|Number=Plur	15	nummod	_	_
+13	que	-que	CCONJ	_	_	11	cc	_	_
+14	ii	is	PRON	_	Case=Nom|Gender=Masc|Number=Plur	15	det	_	_
+15	numeri	numerus	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	_
+16	quorum	qui	PRON	_	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+17	uterque	uterque	PRON	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+18	plenus	plenus	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	23	xcomp	_	_
+19	alter	alter	PRON	_	Case=Nom|Gender=Masc|Number=Sing	23	obl	_	_
+20	altera	alter	DET	_	Case=Abl|Gender=Fem|Number=Sing	22	det	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	causa	causa	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+23	habetur	habeo	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing|Voice=Pass	15	acl:relcl	_	_
+24	circuitu	circuitus	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	_
+25	naturali	naturalis	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	24	amod	_	_
+26	summam	summa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+27	tibi	tu	PRON	_	Case=Dat|Person=2|Number=Sing	29	iobj	_	_
+28	fatalem	fatalis	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	_
+29	confecerint	conficio	VERB	_	Mood=Sub|Tense=Perf|Person=3|Number=Plur|Voice=Act	11	conj	_	_
+30	in	in	ADP	_	_	31	case	_	_
+31	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	39	obl	_	_
+32	unum	unus	NUM	_	Case=Acc|Gender=Masc|Number=Sing	31	appos	_	_
+33	atque	atque	CCONJ	_	_	36	cc	_	_
+34	in	in	ADP	_	_	36	case	_	_
+35	tuum	tuus	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=2|Poss=Yes	36	det	_	_
+36	nomen	nomen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	31	conj	_	_
+37	se	se	PRON	_	Case=Acc|Person=3	39	obj	_	_
+38	tota	totus	DET	_	Case=Nom|Gender=Fem|Number=Sing	40	det	_	_
+39	convertet	converto	VERB	_	Mood=Ind|Tense=Fut|Person=3|Number=Sing|Voice=Act	0	root	_	_
+40	civitas	civitas	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	39	nsubj	_	_
+
+# sent_id = cic-rep-6-12-D
+# text = te senatus te omnes boni te socii te Latini intuebuntur
+
+1	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	10	obj	_	_
+2	senatus	senatus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	1	conj	_	_
+4	omnes	omnis	DET	_	Case=Nom|Gender=Masc|Number=Plur	5	det	_	_
+5	boni	bonus	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+6	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	1	conj	_	_
+7	socii	socius	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+8	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	1	conj	_	_
+9	Latini	Latinus	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+10	intuebuntur	intueor	VERB	_	Mood=Ind|Tense=Fut|Person=3|Number=Plur|Voice=Dep	0	root	_	_
+
+# sent_id = cic-rep-6-12-E
+# text = tu eris unus in quo nitatur civitatis salus ac ne multa dictator rem publicam constituas oportet si impias propinquorum manus effugeris
+
+1	tu	tu	PRON	_	Case=Nom|Person=2|Number=Sing	2	nsubj	_	_
+2	eris	sum	AUX	_	Mood=Ind|Tense=Fut|Person=2|Number=Sing	3	cop	_	_
+3	unus	unus	NUM	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	quo	qui	PRON	_	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	_
+6	nitatur	nitor	VERB	_	Mood=Sub|Tense=Pres|Person=3|Number=Sing|Voice=Dep	3	acl:relcl	_	_
+7	civitatis	civitas	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+8	salus	salus	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+9	ac	ac	CCONJ	_	_	16	cc	_	_
+10	ne	ne	PART	_	_	11	discourse	_	_
+11	multa	multum	ADV	_	Case=Acc|Gender=Neut|Number=Plur	16	advmod	_	_
+12	dictator	dictator	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	_
+13	rem	res	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+14	publicam	publicus	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
+15	constituas	constituo	VERB	_	Mood=Sub|Tense=Pres|Person=2|Number=Sing|Voice=Act	16	xcomp	_	_
+16	oportet	oportet	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing	3	conj	_	_
+17	si	si	SCONJ	_	_	21	mark	_	_
+18	impias	impius	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	20	amod	_	_
+19	propinquorum	propinquus	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+20	manus	manus	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	21	obj	_	_
+21	effugeris	effugio	VERB	_	Mood=Ind|Tense=FutPerf|Person=2|Number=Sing|Voice=Act	15	advcl	_	_
+
+# sent_id = cic-rep-6-12-F
+# text = Hic cum exclamasset Laelius ingemuissentque vehementius ceteri leniter arridens Scipio St quaeso inquit ne me e somno excitetis et parumper audite cetera
+
+1	Hic	hic	ADV	_	_	14	advmod	_	_
+2	cum	cum	SCONJ	_	_	3	mark	_	_
+3	exclamasset	exclamo	VERB	_	Mood=Sub|Tense=Plup|Person=3|Number=Sing|Voice=Act	11	advcl	_	_
+4	Laelius	Laelius	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	ingemuissent	ingemo	VERB	_	Mood=Sub|Tense=Plup|Person=3|Number=Plur|Voice=Act	3	conj	_	_
+6	que	-que	CCONJ	_	_	3	cc	_	_
+7	vehementius	vehementer	ADV	_	Degree=Cmp	5	advmod	_	_
+8	ceteri	ceterus	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+9	leniter	leniter	ADV	_	_	10	advmod	_	_
+10	arridens	arrideo	VERB	_	VerbForm=Part|Tense=Pres|Voice=Act|Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	_
+11	Scipio	Scipio	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	St	st	INTJ	_	_	13	discourse	_	_
+13	quaeso	quaeso	VERB	_	Mood=Ind|Tense=Pres|Person=1|Number=Sing|Voice=Act	14	xcomp	_	_
+14	inquit	inquam	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing	0	root	_	_
+15	ne	ne	SCONJ	_	_	19	mark	_	_
+16	me	ego	PRON	_	Case=Acc|Person=1|Number=Sing	19	obj	_	_
+17	e	e	ADP	_	_	18	case	_	_
+18	somno	somnus	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	19	obl	_	_
+19	excitetis	excito	VERB	_	Mood=Sub|Tense=Pres|Person=2|Number=Plur|Voice=Act	13	ccomp	_	_
+20	et	et	CCONJ	_	_	22	cc	_	_
+21	parumper	parumper	ADV	_	_	22	advmod	_	_
+22	audite	audio	VERB	_	Mood=Imp|Tense=Pres|Person=2|Number=Plur|Voice=Act	19	conj	_	_
+23	cetera	ceterus	PRON	_	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
