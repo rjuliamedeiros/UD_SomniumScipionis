@@ -16,3 +16,8 @@ Guia para revisão posterior das passagens anotadas.
 - Linha 480  (sent_id = cic-rep-6-12-E, ID 11 TOKEN multa): features, head e deprel
 - Linha 490  (sent_id = cic-rep-6-12-E, ID 21 TOKEN effugeris): head (15?16?)
 
+# Parágrafo 13 (Rep.6.13)
+- Linha 490  (sent_id = cic-rep-6-13-A, ID 19 TOKEN esse): head (0,23) deprel (root? cop?), TAG (verb? aux?); visto que o verbo possui sentido de existência, e não de qualidade
+- Linha 490  (sent_id = cic-rep-6-13-B, ID 2 TOKEN est): head (0?), deprel (root?); visto que o verbo possui sentido de existência, e não de qualidade
+- Linha 490  (sent_id = cic-rep-6-13-B, ID 18 TOKEN concilia): deprel 
+
