@@ -515,3 +515,77 @@
 21	parumper	parumper	ADV	_	_	22	advmod	_	_
 22	audite	audio	VERB	_	Mood=Imp|Tense=Pres|Person=2|Number=Plur|Voice=Act	19	conj	_	_
 23	cetera	ceterus	PRON	_	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+
+# sent_id = cic-rep-6-13-A
+# text = Sed quo sis Africane alacrior ad tutandam rem publicam sic habeto omnibus qui patriam conservaverint adiuverint auxerint certum esse in caelo definitum locum ubi beati aevo sempiterno fruantur
+
+1	Sed	sed	CCONJ	_	_	11	cc	_	_
+2	quo	quo	SCONJ	_	_	4	mark	_	_
+3	sis	sum	AUX	_	Mood=Sub|Tense=Pres|Person=2|Number=Sing	4	cop	_	_
+4	alacrior	alacer	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Degree=Cmp	10	advcl	_	_
+5	Africane	Africanus	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
+6	ad	ad	ADP	_	_	7	case	_	_
+7	tutandam	tutor	VERB	_	VerbForm=Ger|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+8	rem	res	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	publicam	publicus	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
+10	sic	sic	ADV	_	_	11	advmod	_	_
+11	habeto	habeo	VERB	_	Mood=Imp|Tense=Fut|Person=2|Number=Sing|Voice=Act	0	root	_	_
+12	omnibus	omnis	PRON	_	Case=Dat|Gender=Masc|Number=Plur	23	iobj	_	_
+13	qui	qui	PRON	_	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+14	patriam	patria	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+15	conservaverint	conservo	VERB	_	Mood=Sub|Tense=Perf|Person=3|Number=Plur|Voice=Act	12	acl:relcl	_	_
+16	adiuverint	adiuvo	VERB	_	Mood=Sub|Tense=Perf|Person=3|Number=Plur|Voice=Act	15	conj	_	_
+17	auxerint	augeo	VERB	_	Mood=Sub|Tense=Perf|Person=3|Number=Plur|Voice=Act	15	conj	_	_
+18	certum	certus	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	23	xcomp	_	_
+19	esse	sum	AUX	_	VerbForm=Inf|Tense=Pres	23	cop	_	_
+20	in	in	ADP	_	_	21	case	_	_
+21	caelo	caelum	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+22	definitum	definitus	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	23	amod	_	_
+23	locum	locus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	ccomp	_	_
+24	ubi	ubi	ADV	_	_	28	advmod	_	_
+25	beati	beatus	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	_
+26	aevo	aevum	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	28	obl	_	_
+27	sempiterno	sempiternus	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	26	amod	_	_
+28	fruantur	fruor	VERB	_	Mood=Sub|Tense=Pres|Person=3|Number=Plur|Voice=Dep	23	acl:relcl	_	_
+
+# sent_id = cic-rep-6-13-B
+# text = nihil est enim illi principi deo qui omnem mundum regit quod quidem in terris fiat acceptius quam concilia coetusque hominum iure sociati quae civitates appellantur
+
+1	nihil	nihil	PRON	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	est	sum	AUX	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing	0	root	_	_
+3	enim	enim	PART	_	_	2	discourse	_	_
+4	illi	ille	PRON	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+5	principi	princeps	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+6	deo	deus	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
+7	qui	qui	PRON	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+8	omnem	omnis	DET	_	Case=Acc|Gender=Masc|Number=Sing	9	det	_	_
+9	mundum	mundus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+10	regit	rego	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing|Voice=Act	6	acl:relcl	_	_
+11	quod	qui	PRON	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+12	quidem	quidem	PART	_	_	15	discourse	_	_
+13	in	in	ADP	_	_	14	case	_	_
+14	terris	terra	NOUN	_	Case=Abl|Gender=Fem|Number=Plur	15	obl	_	_
+15	fiat	fio	VERB	_	Mood=Sub|Tense=Pres|Person=3|Number=Sing|Voice=Act	1	acl:relcl	_	_
+16	acceptius	acceptus	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|Degree=Cmp	2	xcomp	_	_
+17	quam	quam	SCONJ	_	_	18	mark	_	_
+18	concilia	concilium	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	obl	_	_
+19	coetus	coetus	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	conj	_	_
+20	que	-que	CCONJ	_	_	19	cc	_	_
+21	hominum	homo	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+22	iure	ius	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+23	sociati	socio	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Nom|Gender=Masc|Number=Plur	19	acl	_	_
+24	quae	qui	PRON	_	Case=Nom|Gender=Neut|Number=Plur	26	nsubj	_	_
+25	civitates	civitas	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	xcomp	_	_
+26	appellantur	appello	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Plur|Voice=Pass	18	acl:relcl	_	_
+
+# sent_id = cic-rep-6-13-C
+# text = harum rectores et conservatores hinc profecti huc revertuntur
+
+1	harum	hic	PRON	_	Case=Gen|Gender=Fem|Number=Plur	2	det	_	_
+2	rectores	rector	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+3	et	et	CCONJ	_	_	4	cc	_	_
+4	conservatores	conservator	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+5	hinc	hinc	ADV	_	_	6	advmod	_	_
+6	profecti	proficiscor	VERB	_	VerbForm=Part|Tense=Perf|Voice=Dep|Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	_
+7	huc	huc	ADV	_	_	8	advmod	_	_
+8	revertuntur	revertor	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Plur|Voice=Dep	0	root	_	_
