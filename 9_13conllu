@@ -573,7 +573,7 @@
 20	que	-que	CCONJ	_	_	19	cc	_	_
 21	hominum	homo	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
 22	iure	ius	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
-23	sociati	socio	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Nom|Gender=Masc|Number=Plur	19	acl	_	_
+23	sociati	socio	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Nom|Gender=Masc|Number=Plur	21	acl	_	_
 24	quae	qui	PRON	_	Case=Nom|Gender=Neut|Number=Plur	26	nsubj	_	_
 25	civitates	civitas	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	xcomp	_	_
 26	appellantur	appello	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Plur|Voice=Pass	18	acl:relcl	_	_
