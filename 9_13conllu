@@ -589,3 +589,89 @@
 6	profecti	proficiscor	VERB	_	VerbForm=Part|Tense=Perf|Voice=Dep|Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	_
 7	huc	huc	ADV	_	_	8	advmod	_	_
 8	revertuntur	revertor	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Plur|Voice=Dep	0	root	_	_
+
+# sent_id = cic-rep-6-14-A
+# text = Hic ego etsi eram perterritus non tam mortis metu quam insidiarum a meis quaesivi tamen viveretne ipse et Paulus pater et alii quos nos extinctos arbitraremur
+# speaker = Scipio Aemilianus
+1	Hic	hic	ADV	_	_	14	advmod	_	_
+2	ego	ego	PRON	_	Case=Nom|Person=1|Number=Sing	14	nsubj	_	_
+3	etsi	etsi	SCONJ	_	_	5	mark	_	_
+4	eram	sum	AUX	_	Mood=Ind|Tense=Imp|Person=1|Number=Sing	5	cop	_	_
+5	perterritus	perterreo	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	_
+6	non	non	ADV	_	_	9	advmod	_	_
+7	tam	tam	ADV	_	_	9	advmod	_	_
+8	mortis	mors	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+9	metu	metus	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+10	quam	quam	SCONJ	_	_	11	mark	_	_
+11	insidiarum	insidiae	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	conj	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	meis	meus	PRON	_	Case=Abl|Gender=Masc|Number=Plur|Person=1|Poss=Yes	11	nmod	_	_
+14	quaesivi	quaero	VERB	_	Mood=Ind|Tense=Perf|Person=1|Number=Sing|Voice=Act	0	root	_	_
+15	tamen	tamen	ADV	_	_	14	advmod	_	_
+16	viveret	vivo	VERB	_	Mood=Sub|Tense=Imp|Person=3|Number=Sing|Voice=Act	14	ccomp	_	_
+17	ne	ne	PART	_	_	16	discourse	_	_
+18	ipse	ipse	PRON	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+19	et	et	CCONJ	_	_	20	cc	_	_
+20	Paulus	Paulus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+21	pater	pater	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+22	et	et	CCONJ	_	_	23	cc	_	_
+23	alii	alius	PRON	_	Case=Nom|Gender=Masc|Number=Plur	18	conj	_	_
+24	quos	qui	PRON	_	Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
+25	nos	nos	PRON	_	Case=Nom|Person=1|Number=Plur	27	nsubj	_	_
+26	extinctos	extinguo	VERB	_	VerbForm=Part|Tense=Perf|Voice=Pass|Case=Acc|Gender=Masc|Number=Plur	27	xcomp	_	_
+27	arbitraremur	arbitror	VERB	_	Mood=Sub|Tense=Imp|Person=1|Number=Plur|Voice=Dep	23	acl:relcl	_	_
+
+# sent_id = cic-rep-6-14-B
+# text = Immo vero inquit hi vivunt qui e corporum vinculis tamquam e carcere evolaverunt vestra vero quae dicitur vita mors est
+# speaker = Scipio Africanus
+1	Immo	immo	ADV	_	_	3	advmod	_	_
+2	vero	vero	PART	_	_	3	discourse	_	_
+3	inquit	inquam	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing	0	root	_	_
+4	hi	hic	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	vivunt	vivo	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Plur|Voice=Act	3	ccomp	_	_
+6	qui	qui	PRON	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+7	e	e	ADP	_	_	9	case	_	_
+8	corporum	corpus	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+9	vinculis	vinculum	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	11	obl	_	_
+10	tamquam	tamquam	ADV	_	_	13	advmod	_	_
+11	evolaverunt	evolo	VERB	_	Mood=Ind|Tense=Perf|Person=3|Number=Plur|Voice=Act	5	acl:relcl	_	_
+12	e	e	ADP	_	_	13	case	_	_
+13	carcere	carcer	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	_
+14	vestra	vester	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	17	det	_	_
+15	vero	vero	PART	_	_	17	discourse	_	_
+16	quae	qui	PRON	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+17	dicitur	dico	VERB	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing|Voice=Pass	18	acl:relcl	_	_
+18	vita	vita	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+19	mors	mors	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+20	est	sum	AUX	_	Mood=Ind|Tense=Pres|Person=3|Number=Sing	19	cop	_	_
+
+# sent_id = cic-rep-6-14-C
+# text = Quin tu aspicis ad te venientem Paulum patrem
+# speaker = Scipio Africanus
+1	Quin	quin	SCONJ	_	_	3	mark	_	_
+2	tu	tu	PRON	_	Case=Nom|Person=2|Number=Sing	3	nsubj	_	_
+3	aspicis	aspicio	VERB	_	Mood=Ind|Tense=Pres|Person=2|Number=Sing|Voice=Act	0	root	_	_
+4	ad	ad	ADP	_	_	5	case	_	_
+5	te	tu	PRON	_	Case=Acc|Person=2|Number=Sing	6	obl	_	_
+6	venientem	venio	VERB	_	VerbForm=Part|Tense=Pres|Voice=Act|Case=Acc|Gender=Masc|Number=Sing	7	acl	_	_
+7	Paulum	Paulus	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+8	patrem	pater	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	appos	_	_
+
+# sent_id = cic-rep-6-14-D
+# text = Quem ut vidi equidem vim lacrimarum profudi ille autem me complexus atque osculans flere prohibebat
+# speaker = Scipio Aemilianus
+1	Quem	qui	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+2	ut	ut	SCONJ	_	_	3	mark	_	_
+3	vidi	video	VERB	_	Mood=Ind|Tense=Perf|Person=1|Number=Sing|Voice=Act	7	advcl	_	_
+4	equidem	equidem	ADV	_	_	7	advmod	_	_
+5	vim	vis	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+6	lacrimarum	lacrima	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+7	profudi	profundo	VERB	_	Mood=Ind|Tense=Perf|Person=1|Number=Sing|Voice=Act	0	root	_	_
+8	ille	ille	PRON	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+9	autem	autem	PART	_	_	15	discourse	_	_
+10	me	ego	PRON	_	Case=Acc|Person=1|Number=Sing	11	obj	_	_
+11	complexus	complexor	VERB	_	VerbForm=Part|Tense=Perf|Voice=Dep|Case=Nom|Gender=Masc|Number=Sing	15	advcl	_	_
+12	atque	atque	CCONJ	_	_	13	cc	_	_
+13	osculans	osculor	VERB	_	VerbForm=Part|Tense=Pres|Voice=Dep|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+14	flere	fleo	VERB	_	VerbForm=Inf|Tense=Pres|Voice=Act	15	xcomp	_	_
+15	prohibebat	prohibeo	VERB	_	Mood=Ind|Tense=Imp|Person=3|Number=Sing|Voice=Act	7	conj	_	_
